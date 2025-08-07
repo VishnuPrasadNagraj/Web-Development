@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+    <table border="2" cellspacing="10px" cellpadding="10px">
+        <tr>
+            <th colspan="3">FOOD MENU</th>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.indianhealthyrecipes.com/chicken-biryani-recipe/" target="_blank"><img src="https://tse3.mm.bing.net/th/id/OIP.JbBpts8DpTwg1253grV3YAHaHa?pid=Api&P=0&h=180" alt="Briyani" height="100px" width="100px"></td></a>
+            <td>
+                <a href="https://www.vegrecipesofindia.com/paneer-tikka-recipe-paneer-tikka/" target="_blank"><img src="https://tse4.mm.bing.net/th/id/OIP.SzUPYNpoGfeEyvZqgGqZYwHaD2?pid=Api&P=0&h=180" alt="Paneer Tikka" height="100px" width="100px"></td></a>
+            <td>
+                <a href="https://www.indianhealthyrecipes.com/prawn-fry-recipe-royyala-vepudu/" target="_blank"><img src="https://tse2.mm.bing.net/th/id/OIP.PHGVvkcOBpmWJ9VPwAyrtwHaHa?pid=Api&P=0&h=180" alt="Prawns Fry" height="100px" width="100px"></td></a>
+
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.liquor.com/recipes/mojito/" target="_blank"><img src="https://flavorfix.com/wp-content/uploads/2021/04/mojito-recipe-2048x1365.jpeg" alt="Mint Mojito" height="100px" width="100px"></td></a>
+            <td>
+                <a href="https://www.indianhealthyrecipes.com/chicken-shawarma/" target="_blank"><img src="https://tse4.mm.bing.net/th/id/OIP.sMMpXD9-xLCHzHOwG6Lq-gHaE7?pid=Api&P=0&h=180" alt="Chicken Shawarma" height="100px" width="100px"></td></a>
+            <td>
+                <a href="https://www.vegrecipesofindia.com/chole-bhature/" target="_blank"><img src="https://tse1.mm.bing.net/th/id/OIP.Y484f7AzHY0b45zV4uPMawHaEK?pid=Api&P=0&h=180" alt="Chole Bhature" height="100px" width="100px"></td></a>
+
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.vegrecipesofindia.com/french-fries-navratri-recipe/"><img src="https://purendesi.in/wp-content/uploads/2023/04/French-Fries.jpg" alt="French Fries" height="100px" width="100px"></td></a>
+            <td>
+                <a href="https://www.vegrecipesofindia.com/cold-coffee-recipe-coffee-milkshake/"><img src="https://tse1.mm.bing.net/th/id/OIP.Zkgek40nYavPzTGeZDgZCQHaE7?pid=Api&P=0&h=180" alt="Cold Coffee" height="100px" width="100px"></td></a>
+            <td>
+                <a href="https://www.indianhealthyrecipes.com/mutton-fry-recipe/"><img src="https://tse3.mm.bing.net/th/id/OIP.lEzRybhAQtUHeNyzYCLxVgHaE8?pid=Api&P=0&h=180" alt="Mutton Fry" height="100px" width="100px"></td></a>
+        </tr>
+    </table>
+    </center>
+</body>
+</html>
